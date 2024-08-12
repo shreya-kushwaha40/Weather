@@ -38,9 +38,9 @@ weather-app/
 <img src="./src/assets/ss.png" alt="">
 
 ### Future Improvements
-- 5-day Forecast: Extend the application to display a 5-day weather forecast.
-- Favorite Cities: Implement functionality to save and quickly access favorite cities.
-- Weather Icons: Display icons representing different weather conditions (e.g., sunny, cloudy, rainy).
+- Toggle Mode: Implement Functionality light theme and dark theme functionality.
+- Search Functionality: Implement the Debounce search functionality.
+- Weather Icons: Display 3d icons representing different weather conditions (e.g., sunny, cloudy, rainy).
 
 ### Acknowledgments
 - OpenWeatherMap for the weather API.
